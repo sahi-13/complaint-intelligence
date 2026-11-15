@@ -2,7 +2,7 @@
 
 An end-to-end analysis of 1.18 million US consumer finance complaints (CFPB database, Jan 2025 to Nov 2026). It benchmarks companies **within each product**, with confidence intervals and significance tests, and ships a three-page Tableau dashboard that works for **any company** in the data.
 
-**Built by:** Allam Sahithi  |  **Tools:** Python (pandas, SciPy), SQL (SQLite), Tableau Public  |  **Dashboard:** (https://public.tableau.com/views/FinancialServicesComplaintIntelligence/IndustryOverview?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+**Built by:** Allam Sahithi  |  **Tools:** Python (pandas, SciPy), SQL (SQLite), Tableau Public  |  **Dashboard:** (https://public.tableau.com/views/FinancialServicesComplaintIntelligence/IndustryOverview)
 
 <img width="745" height="498" alt="Dashboard1" src="https://github.com/user-attachments/assets/ec5763e2-f27e-4d36-8558-6d9a0c3b521f" />
 
