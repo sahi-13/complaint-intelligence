@@ -2,11 +2,10 @@
 
 An end-to-end analysis of 1.18 million US consumer finance complaints (CFPB database, Jan 2025 to Nov 2026). It benchmarks companies **within each product**, with confidence intervals and significance tests, and ships a three-page Tableau dashboard that works for **any company** in the data.
 
-**Built by:** _your name_  |  **Tools:** Python (pandas, SciPy), SQL (SQLite), Tableau Public  |  **Dashboard:** _paste your Tableau Public link_
+**Built by:** Allam Sahithi  |  **Tools:** Python (pandas, SciPy), SQL (SQLite), Tableau Public  |  **Dashboard:** (https://public.tableau.com/views/FinancialServicesComplaintIntelligence/IndustryOverview?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-<!-- After you upload dashboard/page1_industry_overview.png, delete this line's comment markers:
-![Industry overview](dashboard/page1_industry_overview.png)
--->
+<img width="745" height="498" alt="Dashboard1" src="https://github.com/user-attachments/assets/ec5763e2-f27e-4d36-8558-6d9a0c3b521f" />
+
 
 ## Business question
 
@@ -35,10 +34,9 @@ Across US consumer finance, what drives customer complaints, which companies and
 | Company benchmark | For a chosen product and metric, each company's gap versus typical peers, flagged HIGHER / LOWER only when significant |
 | Company report | Pick any company and see its gap in every product |
 
-<!-- After uploading the screenshots, add them here:
-![Company benchmark](dashboard/page2_company_benchmark.png)
-![Company report](dashboard/page3_company_report.png)
--->
+<img width="749" height="353" alt="Dashboard2" src="https://github.com/user-attachments/assets/cb09ad14-67de-417b-acf8-2179fba0916b" />
+<img width="695" height="239" alt="Dashboard3" src="https://github.com/user-attachments/assets/54c8d997-13dd-466f-aebb-0f684d6d4c41" />
+
 
 ## Metrics
 
