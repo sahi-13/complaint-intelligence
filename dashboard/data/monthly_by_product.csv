@@ -1,0 +1,231 @@
+year_month,product,complaints,closed,monetary_relief,any_relief,timely,is_partial_month
+2025-01,Checking or savings account,18367,18359,927,1261,18329,0
+2025-01,Credit card,9073,9065,1032,3320,9047,0
+2025-01,Debt collection,23830,23754,52,6360,23169,0
+2025-01,Debt or credit management,693,682,15,46,630,0
+2025-01,"Money transfer, virtual currency, or money service",49743,49732,199,285,49654,0
+2025-01,Mortgage,2204,2198,40,101,2184,0
+2025-01,"Payday loan, title loan, personal loan, or advance loan",1098,1088,39,78,1066,0
+2025-01,Prepaid card,756,756,158,181,689,0
+2025-01,Student loan,2232,2008,1,15,1994,0
+2025-01,Vehicle loan or lease,1920,1917,51,182,1901,0
+2025-02,Checking or savings account,5452,5450,579,895,5421,0
+2025-02,Credit card,6213,6209,821,2220,6198,0
+2025-02,Debt collection,17032,16944,37,4338,16504,0
+2025-02,Debt or credit management,353,348,7,33,332,0
+2025-02,"Money transfer, virtual currency, or money service",6128,6121,143,234,6069,0
+2025-02,Mortgage,1754,1746,27,69,1735,0
+2025-02,"Payday loan, title loan, personal loan, or advance loan",750,744,20,63,727,0
+2025-02,Prepaid card,495,495,75,94,453,0
+2025-02,Student loan,1868,1682,2,17,1561,0
+2025-02,Vehicle loan or lease,1358,1348,34,131,1339,0
+2025-03,Checking or savings account,5070,5064,635,979,5044,0
+2025-03,Credit card,6255,6254,822,2259,6244,0
+2025-03,Debt collection,20369,20252,33,5676,19631,0
+2025-03,Debt or credit management,338,333,13,44,325,0
+2025-03,"Money transfer, virtual currency, or money service",3032,3025,146,222,2978,0
+2025-03,Mortgage,1824,1819,27,77,1800,0
+2025-03,"Payday loan, title loan, personal loan, or advance loan",862,855,32,77,831,0
+2025-03,Prepaid card,485,484,98,119,455,0
+2025-03,Student loan,3413,3070,11,26,2222,0
+2025-03,Vehicle loan or lease,1309,1303,24,100,1300,0
+2025-04,Checking or savings account,5229,5227,623,962,5191,0
+2025-04,Credit card,6897,6894,823,2584,6880,0
+2025-04,Debt collection,20304,20184,37,6152,19490,0
+2025-04,Debt or credit management,302,292,10,38,277,0
+2025-04,"Money transfer, virtual currency, or money service",2504,2497,143,224,2458,0
+2025-04,Mortgage,1846,1835,29,80,1819,0
+2025-04,"Payday loan, title loan, personal loan, or advance loan",892,883,33,68,859,0
+2025-04,Prepaid card,508,507,74,136,476,0
+2025-04,Student loan,2159,2012,18,39,1352,0
+2025-04,Vehicle loan or lease,1423,1417,22,117,1405,0
+2025-05,Checking or savings account,5394,5390,680,1008,5360,0
+2025-05,Credit card,7515,7510,924,2674,7498,0
+2025-05,Debt collection,21959,21816,37,6503,21264,0
+2025-05,Debt or credit management,275,273,7,44,259,0
+2025-05,"Money transfer, virtual currency, or money service",2652,2648,139,225,2615,0
+2025-05,Mortgage,1969,1960,29,85,1943,0
+2025-05,"Payday loan, title loan, personal loan, or advance loan",985,978,29,77,954,0
+2025-05,Prepaid card,513,513,85,121,492,0
+2025-05,Student loan,1903,1779,23,41,1086,0
+2025-05,Vehicle loan or lease,1643,1639,31,130,1628,0
+2025-06,Checking or savings account,5557,5548,673,1030,5422,0
+2025-06,Credit card,7364,7360,922,2480,7325,0
+2025-06,Debt collection,21860,21726,30,6480,21307,0
+2025-06,Debt or credit management,298,284,14,51,270,0
+2025-06,"Money transfer, virtual currency, or money service",2408,2402,172,251,2181,0
+2025-06,Mortgage,1903,1893,43,96,1883,0
+2025-06,"Payday loan, title loan, personal loan, or advance loan",1069,1053,30,69,1029,0
+2025-06,Prepaid card,490,490,80,105,458,0
+2025-06,Student loan,1409,1277,8,34,877,0
+2025-06,Vehicle loan or lease,1707,1701,27,127,1677,0
+2025-07,Checking or savings account,6403,6395,820,1199,6316,0
+2025-07,Credit card,8105,8101,1020,2737,8084,0
+2025-07,Debt collection,24871,24644,36,7087,24335,0
+2025-07,Debt or credit management,349,338,19,68,326,0
+2025-07,"Money transfer, virtual currency, or money service",2823,2799,174,286,2612,0
+2025-07,Mortgage,2173,2152,37,91,2135,0
+2025-07,"Payday loan, title loan, personal loan, or advance loan",1244,1218,31,78,1192,0
+2025-07,Prepaid card,560,558,75,108,534,0
+2025-07,Student loan,1554,1129,4,33,976,0
+2025-07,Vehicle loan or lease,1970,1957,43,175,1932,0
+2025-08,Checking or savings account,6505,6501,766,1159,6457,0
+2025-08,Credit card,7919,7910,933,2306,7894,0
+2025-08,Debt collection,25626,25448,34,6508,24880,0
+2025-08,Debt or credit management,306,296,10,42,287,0
+2025-08,"Money transfer, virtual currency, or money service",2879,2870,165,325,2815,0
+2025-08,Mortgage,2046,2031,38,86,2014,0
+2025-08,"Payday loan, title loan, personal loan, or advance loan",1133,1125,21,72,1072,0
+2025-08,Prepaid card,558,558,73,133,553,0
+2025-08,Student loan,1259,923,4,21,837,0
+2025-08,Vehicle loan or lease,1738,1727,40,139,1684,0
+2025-09,Checking or savings account,6141,6135,710,1046,6102,0
+2025-09,Credit card,8504,8497,923,2793,8485,0
+2025-09,Debt collection,26815,26536,42,6780,26241,0
+2025-09,Debt or credit management,373,353,9,59,337,0
+2025-09,"Money transfer, virtual currency, or money service",2505,2498,142,273,2450,0
+2025-09,Mortgage,2021,2005,24,92,1982,0
+2025-09,"Payday loan, title loan, personal loan, or advance loan",1242,1227,28,69,1188,0
+2025-09,Prepaid card,531,531,63,122,527,0
+2025-09,Student loan,1324,938,4,31,918,0
+2025-09,Vehicle loan or lease,1743,1734,29,154,1693,0
+2025-10,Checking or savings account,6308,6299,741,1023,6276,0
+2025-10,Credit card,7413,7403,992,2391,7392,0
+2025-10,Debt collection,25546,25091,31,5954,24826,0
+2025-10,Debt or credit management,298,288,7,44,277,0
+2025-10,"Money transfer, virtual currency, or money service",4193,4185,171,298,4149,0
+2025-10,Mortgage,2091,2079,39,88,2060,0
+2025-10,"Payday loan, title loan, personal loan, or advance loan",1181,1157,31,59,1122,0
+2025-10,Prepaid card,481,480,51,103,475,0
+2025-10,Student loan,1312,926,6,22,1037,0
+2025-10,Vehicle loan or lease,1767,1754,48,148,1724,0
+2025-11,Checking or savings account,6077,6071,765,1048,6030,0
+2025-11,Credit card,6861,6855,994,2003,6820,0
+2025-11,Debt collection,25708,25237,42,5557,24897,0
+2025-11,Debt or credit management,333,316,9,49,303,0
+2025-11,"Money transfer, virtual currency, or money service",2603,2595,164,283,2519,0
+2025-11,Mortgage,2215,2200,49,114,2174,0
+2025-11,"Payday loan, title loan, personal loan, or advance loan",1198,1170,35,67,1123,0
+2025-11,Prepaid card,486,484,56,93,468,0
+2025-11,Student loan,1185,924,5,23,867,0
+2025-11,Vehicle loan or lease,1904,1892,50,176,1873,0
+2025-12,Checking or savings account,7692,7676,988,1369,7638,0
+2025-12,Credit card,7859,7853,1179,2124,7766,0
+2025-12,Debt collection,29279,28847,36,5504,28464,0
+2025-12,Debt or credit management,348,334,13,50,315,0
+2025-12,"Money transfer, virtual currency, or money service",3149,3136,276,430,3091,0
+2025-12,Mortgage,2651,2630,43,118,2595,0
+2025-12,"Payday loan, title loan, personal loan, or advance loan",1483,1454,39,78,1385,0
+2025-12,Prepaid card,639,638,82,112,613,0
+2025-12,Student loan,1663,1174,4,37,1094,0
+2025-12,Vehicle loan or lease,2286,2277,47,184,2248,0
+2026-01,Checking or savings account,7916,7901,1049,1455,7870,0
+2026-01,Credit card,9516,9508,1421,2674,9407,0
+2026-01,Debt collection,31013,30541,34,6210,30083,0
+2026-01,Debt or credit management,419,398,12,66,377,0
+2026-01,"Money transfer, virtual currency, or money service",3478,3466,260,501,3412,0
+2026-01,Mortgage,2999,2966,50,135,2932,0
+2026-01,"Payday loan, title loan, personal loan, or advance loan",1689,1664,51,102,1592,0
+2026-01,Prepaid card,646,646,79,116,616,0
+2026-01,Student loan,2099,1466,4,33,1348,0
+2026-01,Vehicle loan or lease,2523,2514,61,222,2477,0
+2026-02,Checking or savings account,6559,6553,832,1155,6516,0
+2026-02,Credit card,7401,7393,1223,2027,7267,0
+2026-02,Debt collection,27397,26821,34,4956,26502,0
+2026-02,Debt or credit management,351,342,16,51,323,0
+2026-02,"Money transfer, virtual currency, or money service",2766,2748,254,409,2666,0
+2026-02,Mortgage,2573,2554,39,111,2536,0
+2026-02,"Payday loan, title loan, personal loan, or advance loan",1311,1292,50,85,1234,0
+2026-02,Prepaid card,498,496,62,107,474,0
+2026-02,Student loan,1553,1123,2,12,1037,0
+2026-02,Vehicle loan or lease,1905,1894,41,174,1876,0
+2026-03,Checking or savings account,7824,7816,978,1393,7767,0
+2026-03,Credit card,8327,8318,1421,2163,8215,0
+2026-03,Debt collection,33672,32889,41,6169,32525,0
+2026-03,Debt or credit management,409,393,17,64,369,0
+2026-03,"Money transfer, virtual currency, or money service",3395,3383,269,437,3328,0
+2026-03,Mortgage,2944,2927,50,130,2894,0
+2026-03,"Payday loan, title loan, personal loan, or advance loan",1506,1488,43,82,1424,0
+2026-03,Prepaid card,462,462,48,81,431,0
+2026-03,Student loan,2044,1431,2,32,1335,0
+2026-03,Vehicle loan or lease,2274,2255,42,196,2221,0
+2026-04,Checking or savings account,7676,7663,1019,1405,7596,0
+2026-04,Credit card,8229,8219,1255,2013,8108,0
+2026-04,Debt collection,28045,27235,28,5454,26838,0
+2026-04,Debt or credit management,366,351,19,46,332,0
+2026-04,"Money transfer, virtual currency, or money service",3458,3444,284,489,3372,0
+2026-04,Mortgage,3024,2996,42,123,2948,0
+2026-04,"Payday loan, title loan, personal loan, or advance loan",1534,1516,35,76,1430,0
+2026-04,Prepaid card,457,456,50,89,413,0
+2026-04,Student loan,1996,1330,4,21,1245,0
+2026-04,Vehicle loan or lease,2167,2150,35,161,2121,0
+2026-05,Checking or savings account,7201,7188,970,1369,7152,0
+2026-05,Credit card,7924,7874,1239,2004,7749,0
+2026-05,Debt collection,28003,26936,42,7295,26532,0
+2026-05,Debt or credit management,389,369,18,59,344,0
+2026-05,"Money transfer, virtual currency, or money service",3216,3202,319,516,3155,0
+2026-05,Mortgage,2795,2756,37,121,2696,0
+2026-05,"Payday loan, title loan, personal loan, or advance loan",1533,1514,49,93,1424,0
+2026-05,Prepaid card,499,495,54,94,458,0
+2026-05,Student loan,1614,1107,3,36,1032,0
+2026-05,Vehicle loan or lease,1995,1987,48,182,1956,0
+2026-06,Checking or savings account,7672,7661,1026,1462,7614,0
+2026-06,Credit card,7467,7396,1226,1929,7309,0
+2026-06,Debt collection,27652,26785,43,7329,26379,0
+2026-06,Debt or credit management,377,359,15,72,348,0
+2026-06,"Money transfer, virtual currency, or money service",3043,3031,281,509,2979,0
+2026-06,Mortgage,2985,2939,54,161,2733,0
+2026-06,"Payday loan, title loan, personal loan, or advance loan",1598,1573,52,89,1506,0
+2026-06,Prepaid card,531,528,68,96,502,0
+2026-06,Student loan,1724,1151,7,42,1105,0
+2026-06,Vehicle loan or lease,2011,1994,44,183,1971,0
+2026-07,Checking or savings account,8022,7992,1112,1531,7961,0
+2026-07,Credit card,8127,8051,1364,2130,7986,0
+2026-07,Debt collection,25110,24451,35,7110,24226,0
+2026-07,Debt or credit management,398,382,13,76,376,0
+2026-07,"Money transfer, virtual currency, or money service",3517,3493,281,573,3458,0
+2026-07,Mortgage,3144,3018,55,171,2910,0
+2026-07,"Payday loan, title loan, personal loan, or advance loan",1844,1815,42,95,1769,0
+2026-07,Prepaid card,573,565,44,91,525,0
+2026-07,Student loan,1836,1168,7,32,1139,0
+2026-07,Vehicle loan or lease,2203,2188,32,178,2157,0
+2026-08,Checking or savings account,7921,7859,1159,1573,7861,0
+2026-08,Credit card,8432,8306,1378,2189,8339,0
+2026-08,Debt collection,21774,21083,28,6360,21075,0
+2026-08,Debt or credit management,358,320,12,54,317,0
+2026-08,"Money transfer, virtual currency, or money service",3290,3241,307,583,3209,0
+2026-08,Mortgage,2970,2765,55,156,2746,0
+2026-08,"Payday loan, title loan, personal loan, or advance loan",1863,1807,59,106,1782,0
+2026-08,Prepaid card,586,573,76,133,544,0
+2026-08,Student loan,1540,952,4,29,961,0
+2026-08,Vehicle loan or lease,2123,2088,63,233,2087,0
+2026-09,Checking or savings account,8073,6891,915,1306,8048,0
+2026-09,Credit card,8584,7606,1312,2005,8558,0
+2026-09,Debt collection,21268,19276,30,6228,20687,0
+2026-09,Debt or credit management,345,277,6,53,312,0
+2026-09,"Money transfer, virtual currency, or money service",3445,3185,315,586,3400,0
+2026-09,Mortgage,3142,2457,61,133,2994,0
+2026-09,"Payday loan, title loan, personal loan, or advance loan",1942,1741,54,103,1854,0
+2026-09,Prepaid card,553,507,57,90,519,0
+2026-09,Student loan,1503,914,1,17,1334,0
+2026-09,Vehicle loan or lease,2293,2035,46,176,2255,0
+2026-10,Checking or savings account,7117,4578,582,798,7095,0
+2026-10,Credit card,7666,4622,773,1220,7649,0
+2026-10,Debt collection,20726,16142,21,4645,20252,0
+2026-10,Debt or credit management,276,149,5,11,259,0
+2026-10,"Money transfer, virtual currency, or money service",3051,2347,187,355,3015,0
+2026-10,Mortgage,2595,1484,33,93,2540,0
+2026-10,"Payday loan, title loan, personal loan, or advance loan",1697,1270,42,75,1629,0
+2026-10,Prepaid card,416,345,27,37,400,0
+2026-10,Student loan,1208,638,3,5,1143,0
+2026-10,Vehicle loan or lease,2046,1393,17,121,2029,0
+2026-11,Checking or savings account,127,37,4,6,127,1
+2026-11,Credit card,132,14,1,2,132,1
+2026-11,Debt collection,1041,643,1,174,1041,1
+2026-11,Debt or credit management,10,5,0,1,10,1
+2026-11,"Money transfer, virtual currency, or money service",59,40,0,0,59,1
+2026-11,Mortgage,22,8,0,1,22,1
+2026-11,"Payday loan, title loan, personal loan, or advance loan",42,11,0,0,42,1
+2026-11,Prepaid card,10,5,0,0,10,1
+2026-11,Student loan,11,9,0,0,11,1
+2026-11,Vehicle loan or lease,92,30,0,0,92,1
